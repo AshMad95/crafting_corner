@@ -1,5 +1,3 @@
-<!-- Taylor is navigator-->
-
 <!DOCTYPE html>
 
 <html lang="en">
@@ -74,9 +72,9 @@
     <br>
     <br>
     <br>
-    <footer>
-        <p>&copy; 2016 Suzie's Crafting Corner. All rights reserved.</p>
-    </footer>
+    
+    <?php include '../resources/footer.php'; ?>
+    
     </div>
     </div>
     </div>
